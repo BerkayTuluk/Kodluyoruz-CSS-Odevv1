@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+}
+ul li{
+    text-align: center;
+    list-style: none;
+    margin: 3px;
+}
+a{
+    padding: 10px;
+    text-decoration: none;
+}
+h1{
+    color:darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color: crimson;
+}
+img{
+    width: 800px;
+    height: 600px;
+}
